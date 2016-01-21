@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title:  " Logging iOS Battery to Thingspeak"
 date:   2016-01-20 18:14:00
