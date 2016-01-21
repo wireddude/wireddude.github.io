@@ -1,13 +1,11 @@
 # Site settings
-title: David's Jekyll Site
-email: david@davidkanter.com 
+title: dmkanter.github.io
+email: david@davidkanter.com
 description: > # this means to ignore newlines until "baseurl:"
-  Someday, will Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Someday, will Write an awesome description of my site here. For now, you just get to read my various online tests and experiments.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://media.davidkanter.com" # the base hostname & protocol for your site
-twitter_username: dmkanter 
+url: "http://dmkanter.github.io" # the base hostname & protocol for your site
+twitter_username: dmkanter
 github_username: dmkanter
 
 # Build settings
