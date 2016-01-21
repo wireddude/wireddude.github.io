@@ -5,7 +5,7 @@ title:  " Logging iOS Battery to Thingspeak"
 date:   2016-01-20 18:14:00
 categories: article
 ---
-# The Problem
+# The Problem : a very short battery life
 Lately, my iPhone 6 battery has not been lasting as long as it used to. This shouldn't be a surprise to me or anyone who uses smartphones running on lithium batteries. I've read several blogs and tried several troubleshooting steps such as disabling of background refresh, minimizing push notifications, making the screen dimmer, and disabling location, and using manual mail refresh. These didn't seem to help all that much, and at the end of the day, you end up with a phone that isn't much fun, and you'd  just as well turn the thing off if you're that desprate for battery life. (*Yes, I'm aware there's a settings that shows the top battery consumptions items, but in my case all the apps seem fairly low, and there's nothing out of the ordinary there*).
 
 What surprised me was that it seemed as if the *rate* the battery was declining compared to previous had changed so dramatically over such a short period of time. I wasn't sure if it was my imagination, or it was fact so I decided to take matters into my own hands. I created a small [workflow](https://workflow.is/workflows/9ea2c71acbe84bffb40d95517f741a07) that would grab the iOS battery life, copy to clipboard and then send it to [Thingspeak](http://www.thingspeak.com) so I could graph my battery usage over time. Ideally I'd also be able to add a comment or log of sorts to track different things I tried to improve (or worsen) battery live. For example, I could log to a csv file with something like: 
