@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "starbucks people watching"
 tags:
 ---

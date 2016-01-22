@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Model Train Museum"
 tags: electronics
 published: true

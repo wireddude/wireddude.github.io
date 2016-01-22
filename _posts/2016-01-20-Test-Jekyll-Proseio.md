@@ -1,6 +1,6 @@
 ---
 published: true
-layout: post
+layout: default
 title:  " A New post from prose.io and then byword using github"
 date:   2016-01-20 18:14:00
 categories: article
