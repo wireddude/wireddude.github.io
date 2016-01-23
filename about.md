@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About dmkanter
+title: About Dave
 permalink: /about/
 ---
 
