@@ -2,6 +2,8 @@
 layout: post
 ---
 
+{% include header.html %}
+
 <div class="home">
 
   <h1 class="page-heading">Posts by Dave</h1>
@@ -18,5 +20,6 @@ layout: post
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
+
+{% include footer.html %}
