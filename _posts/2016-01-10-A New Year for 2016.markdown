@@ -6,6 +6,8 @@ categories: article
 ---
 Read this pretty cool article on memory. 
 
+![train station](https://dl.dropbox.com/s/165g8mvn5mwxm63/IMG_2434.JPG?dl=0)
+
 # [Want to Remember Everything You'll Ever Learn Surrender to This Algorithm](http://www.wired.com/2008/04/ff-wozniak/)
 
 > On one level, this finding is trivial; all students have been warned not to cram. But the efficiencies created by precise spacing are so large, and the improvement in performance so predictable, that from nearly the moment Ebbinghaus described the spacing effect, psychologists have been urging educators to use it to accelerate human progress.
@@ -62,8 +64,6 @@ Read this pretty cool article on memory.
 
 > His advice was straightforward yet strangely terrible: You must clarify your goals, gain knowledge through spaced repetition, preserve health, work steadily, minimize stress, refuse interruption, and never resist sleep when tired. This should lead to radically improved intelligence and creativity.
 
-![train station](https://dl.dropbox.com/s/165g8mvn5mwxm63/IMG_2434.JPG?dl=0)
-​
 
 
 
