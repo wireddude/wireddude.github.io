@@ -4,12 +4,11 @@ layout: post
 title:  vim galore
 date:   2016-01-20 20:14:00
 categories: article
+author: mhinz
 ---
 Copied from mhinz:
 
 https://github.com/mhinz/vim-galore/blob/master/README.md
-
-![vim-galore](https://raw.githubusercontent.com/mhinz/vim-galore/master/pics/vim-galore.png)
 
 ---
 
