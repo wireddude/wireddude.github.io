@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title:  vim galore
 date:   2016-01-20 20:14:00

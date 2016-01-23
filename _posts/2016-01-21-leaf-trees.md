@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Nissan Leaf Trees"
 tags: EV, Carbon offset, environment
 ---
