@@ -6,7 +6,7 @@ tags:
 
 ![](http://media.davidkanter.com/Photo-2016-01-24-10-26.jpg) 
 
-some inspirational quotes someone posted on facebook.
+some inspirational quotes someone posted on facebook. I used scanbot to perform OCR. 
 
 > Live beneath your means. Return everything 
 > you borrow. Stop blaming other people
@@ -21,3 +21,5 @@ criticizing anyone, Learn from the past
 for the future. Live in the present. Don't
 sweat the small stuff. It’s all small stuff.
 
+original pic. I corrected some items above but not all. 
+![](http://media.davidkanter.com/Photo-2016-01-24-12-48.jpg)
