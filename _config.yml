@@ -1,12 +1,40 @@
-# Site settings
-title: dmkanter.github.io
-email: david@davidkanter.com
-description: > # this means to ignore newlines until "baseurl:"
-   Someday, I will Write an awesome description of my site here. For now, you just get to read my various online tests and experiments.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://dmkanter.github.io" # the base hostname & protocol for your site
-twitter_username: dmkanter
-github_username: dmkanter
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
 
-# Build settings
-markdown: kramdown
+# Basic
+name:               "kangtai.me - David"
+
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
+# Markdown
+markdown:           rdiscount
+
+# Navigation
+nav:
+  - name:           "About"
+    href:           "//kiko.gfjaru.com/about"
+  - name:           "Download"
+    href:           "//github.com/gfjaru/Kiko/releases"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
