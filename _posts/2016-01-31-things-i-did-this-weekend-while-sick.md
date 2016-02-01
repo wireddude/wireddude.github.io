@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 ## Things I did this weekend while sick.
 
