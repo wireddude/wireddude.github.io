@@ -10,8 +10,6 @@ baseurl:            ""
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
 
-# Markdown
-markdown:           rdiscount
 
 # Navigation
 nav:
