@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "kangtai.me - David Kanter"
+name:               "Wired Dude"
 
 # URL
 baseurl:            ""
@@ -13,8 +13,6 @@ permalink:          /:year/:month/:day/:title.html
 
 # Navigation
 nav:
-  - name:           "About"
-    href:           "//about.me/davidkanter"
   - name:           "Download this theme"
     href:           "//github.com/gfjaru/Kiko/releases"
 
