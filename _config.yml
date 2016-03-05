@@ -1,36 +1,32 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+# Permalinks
+permalink:           pretty
 
-# Basic
-name:               "Wired Dude"
+# Setup
+title:               Wired Dude
+tagline:             specify imports for directory _sass
+url:                 http://dmkanter.github.io
+paginate:            1
+baseurl:             ""
 
-# URL
-baseurl:            ""
-#baseurl:            "" #For Root Domain
-permalink:          /:year/:month/:day/:title.html
-
-
-# Navigation
-nav:
-  - name:           "Download this theme"
-    href:           "//github.com/gfjaru/Kiko/releases"
-
-# Sass
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
 sass:
+  sass_dir:          _sass
   style:            :compressed
 
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+# About/contact
+author:
+  name:              David Kanter
+  url:               https://twitter.com/dmkanter
+  email:             figureitout@gmaill.com 
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/dmkanter/dmkanter.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
