@@ -1,4 +1,7 @@
 ---
+layout: post
+title: "Don't Baby Me"
+tags: baby
 published: true
 ---
 
