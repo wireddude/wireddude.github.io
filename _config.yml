@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Wired Dude
+title:               La La Land
 tagline:             where the rubber meets the road
-url:                 http://dmkanter.github.io
+url:                 http://example.github.io
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              David Kanter
-  url:               https://twitter.com/dmkanter
+  name:              La La Land
+  url:               https://twitter.com/therealdeal
   email:             figureitout@gmaill.com 
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/dmkanter/dmkanter.github.io
+  repo:              https://github.com/example/broken.github.io
 
 # Gems
 gems:
