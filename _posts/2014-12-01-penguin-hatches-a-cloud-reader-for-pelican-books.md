@@ -1,6 +1,6 @@
 ---
 id: 34
-title: Penguin Hatches A Cloud Reader For Pelican Books
+title: Penguins Hatches A Cloud Reader For Pelican Books
 date: 2014-12-01T20:56:33+00:00
 author: wireddude
 layout: post
