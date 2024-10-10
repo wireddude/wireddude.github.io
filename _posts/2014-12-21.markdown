@@ -1,1 +1,0 @@
-test. can i move a text file to jekyll and execute a script to generate the page and host on s3 ?
