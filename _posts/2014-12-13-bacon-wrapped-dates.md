@@ -1,6 +1,6 @@
 ---
 id: 68
-title: Bacon Wrapped Dates
+title: Bacon Wrapped Dates and more
 date: 2014-12-13T23:17:37+00:00
 author: wireddude
 layout: post
